@@ -1,0 +1,112 @@
+2020-08-24 13:04:43,605 :INFO :test_e2e :getting all the card items
+2020-08-24 13:04:43,653 :INFO :test_e2e :iphone X
+2020-08-24 13:04:43,765 :INFO :test_e2e :Samsung Note 8
+2020-08-24 13:04:43,789 :INFO :test_e2e :Nokia Edge
+2020-08-24 13:04:43,817 :INFO :test_e2e :Blackberry
+2020-08-24 13:04:44,016 :INFO :test_e2e :Entering country name as uni
+2020-08-24 13:04:49,714 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-24 13:04:57,289 :INFO :test_submission :firstname is Inna
+2020-08-24 13:04:57,394 :INFO :test_submission :gender is Female
+2020-08-24 13:04:57,929 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:04:57,929 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:04:57,998 :INFO :test_submission :gender is Male
+2020-08-24 13:04:57,998 :INFO :test_submission :gender is Male
+2020-08-24 13:08:39,596 :INFO :test_e2e :getting all the card items
+2020-08-24 13:08:39,648 :INFO :test_e2e :iphone X
+2020-08-24 13:08:39,754 :INFO :test_e2e :Samsung Note 8
+2020-08-24 13:08:39,778 :INFO :test_e2e :Nokia Edge
+2020-08-24 13:08:39,808 :INFO :test_e2e :Blackberry
+2020-08-24 13:08:39,974 :INFO :test_e2e :Entering country name as uni
+2020-08-24 13:08:45,710 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-24 13:08:53,690 :INFO :test_submission :firstname is Inna
+2020-08-24 13:08:53,797 :INFO :test_submission :gender is Female
+2020-08-24 13:08:54,382 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:08:54,382 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:08:54,457 :INFO :test_submission :gender is Male
+2020-08-24 13:08:54,457 :INFO :test_submission :gender is Male
+2020-08-24 13:11:02,029 :INFO :test_submission :firstname is Inna
+2020-08-24 13:11:02,115 :INFO :test_submission :gender is Female
+2020-08-24 13:11:02,640 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:11:02,640 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:11:02,711 :INFO :test_submission :gender is Male
+2020-08-24 13:11:02,711 :INFO :test_submission :gender is Male
+2020-08-24 13:11:11,952 :INFO :test_e2e :getting all the card items
+2020-08-24 13:11:12,003 :INFO :test_e2e :iphone X
+2020-08-24 13:11:12,130 :INFO :test_e2e :Samsung Note 8
+2020-08-24 13:11:12,155 :INFO :test_e2e :Nokia Edge
+2020-08-24 13:11:12,179 :INFO :test_e2e :Blackberry
+2020-08-24 13:11:12,322 :INFO :test_e2e :Entering country name as uni
+2020-08-24 13:11:18,049 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-24 13:20:07,981 :INFO :test_submission :firstname is Inna
+2020-08-24 13:20:08,094 :INFO :test_submission :gender is Female
+2020-08-24 13:20:08,663 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:20:08,663 :INFO :test_submission :firstname is Ivan
+2020-08-24 13:20:08,734 :INFO :test_submission :gender is Male
+2020-08-24 13:20:08,734 :INFO :test_submission :gender is Male
+2020-08-24 13:20:18,481 :INFO :test_e2e :getting all the card items
+2020-08-24 13:20:18,536 :INFO :test_e2e :iphone X
+2020-08-24 13:20:18,657 :INFO :test_e2e :Samsung Note 8
+2020-08-24 13:20:18,687 :INFO :test_e2e :Nokia Edge
+2020-08-24 13:20:18,712 :INFO :test_e2e :Blackberry
+2020-08-24 13:20:18,884 :INFO :test_e2e :Entering country name as uni
+2020-08-24 13:20:24,529 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-24 14:01:53,831 :INFO :test_submission :firstname is Inna
+2020-08-24 14:01:53,923 :INFO :test_submission :gender is Female
+2020-08-24 14:01:54,507 :INFO :test_submission :firstname is Ivan
+2020-08-24 14:01:54,507 :INFO :test_submission :firstname is Ivan
+2020-08-24 14:01:54,606 :INFO :test_submission :gender is Male
+2020-08-24 14:01:54,606 :INFO :test_submission :gender is Male
+2020-08-24 14:02:04,840 :INFO :test_e2e :getting all the card items
+2020-08-24 14:02:04,894 :INFO :test_e2e :iphone X
+2020-08-24 14:02:04,989 :INFO :test_e2e :Samsung Note 8
+2020-08-24 14:02:05,011 :INFO :test_e2e :Nokia Edge
+2020-08-24 14:02:05,034 :INFO :test_e2e :Blackberry
+2020-08-24 14:02:05,181 :INFO :test_e2e :Entering country name as uni
+2020-08-24 14:02:10,889 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-24 14:03:36,932 :INFO :test_submission :firstname is Inna
+2020-08-24 14:03:37,016 :INFO :test_submission :gender is Female
+2020-08-24 14:03:37,561 :INFO :test_submission :firstname is Ivan
+2020-08-24 14:03:37,561 :INFO :test_submission :firstname is Ivan
+2020-08-24 14:03:37,635 :INFO :test_submission :gender is Male
+2020-08-24 14:03:37,635 :INFO :test_submission :gender is Male
+2020-08-24 14:03:47,871 :INFO :test_e2e :getting all the card items
+2020-08-24 14:03:47,919 :INFO :test_e2e :iphone X
+2020-08-24 14:03:48,030 :INFO :test_e2e :Samsung Note 8
+2020-08-24 14:03:48,054 :INFO :test_e2e :Nokia Edge
+2020-08-24 14:03:48,085 :INFO :test_e2e :Blackberry
+2020-08-24 14:03:48,256 :INFO :test_e2e :Entering country name as uni
+2020-08-24 14:03:53,787 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-31 10:18:09,872 :INFO :test_submission :firstname is Inna
+2020-08-31 10:18:09,979 :INFO :test_submission :gender is Female
+2020-08-31 10:18:10,544 :INFO :test_submission :firstname is Ivan
+2020-08-31 10:18:10,544 :INFO :test_submission :firstname is Ivan
+2020-08-31 10:18:10,628 :INFO :test_submission :gender is Male
+2020-08-31 10:18:10,628 :INFO :test_submission :gender is Male
+2020-08-31 10:18:20,401 :INFO :test_e2e :getting all the card items
+2020-08-31 10:18:20,453 :INFO :test_e2e :iphone X
+2020-08-31 10:18:20,553 :INFO :test_e2e :Samsung Note 8
+2020-08-31 10:18:20,577 :INFO :test_e2e :Nokia Edge
+2020-08-31 10:18:20,605 :INFO :test_e2e :Blackberry
+2020-08-31 10:18:20,771 :INFO :test_e2e :Entering country name as uni
+2020-08-31 10:18:26,781 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-31 11:08:25,922 :INFO :test_submission :firstname is Inna
+2020-08-31 11:08:26,010 :INFO :test_submission :gender is Female
+2020-08-31 11:08:26,564 :INFO :test_submission :firstname is Ivan
+2020-08-31 11:08:26,564 :INFO :test_submission :firstname is Ivan
+2020-08-31 11:08:26,637 :INFO :test_submission :gender is Male
+2020-08-31 11:08:26,637 :INFO :test_submission :gender is Male
+2020-08-31 11:08:36,394 :INFO :test_e2e :getting all the card items
+2020-08-31 11:08:36,459 :INFO :test_e2e :iphone X
+2020-08-31 11:08:36,555 :INFO :test_e2e :Samsung Note 8
+2020-08-31 11:08:36,578 :INFO :test_e2e :Nokia Edge
+2020-08-31 11:08:36,600 :INFO :test_e2e :Blackberry
+2020-08-31 11:08:36,743 :INFO :test_e2e :Entering country name as uni
+2020-08-31 11:08:42,448 :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
