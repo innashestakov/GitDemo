@@ -66,4 +66,6 @@ class TestOne(BaseClass):
         print("Forth change")
         print("Fifth change")
 
+
+        print("Last change before merge")
         self.driver.get_screenshot_as_file("e2e_final.jpg")
