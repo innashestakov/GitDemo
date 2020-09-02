@@ -61,5 +61,6 @@ class TestOne(BaseClass):
         log.info("Text received from the application is" + alert_success)
         assert "Success! Thank you!" in alert_success
         print(alert_success)
+        print("Second change")
 
         self.driver.get_screenshot_as_file("e2e_final.jpg")
