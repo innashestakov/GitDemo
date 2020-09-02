@@ -62,5 +62,8 @@ class TestOne(BaseClass):
         assert "Success! Thank you!" in alert_success
         print(alert_success)
         print("Second change")
+        print("Third change")
+        print("Forth change")
+        print("Fifth change")
 
         self.driver.get_screenshot_as_file("e2e_final.jpg")
